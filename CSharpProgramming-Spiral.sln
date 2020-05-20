@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpProgramming-Spiral", "CSharpProgramming-Spiral.csproj", "{4E4ED27A-1B01-4636-87B1-3E894AFA497B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4ED27A-1B01-4636-87B1-3E894AFA497B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4ED27A-1B01-4636-87B1-3E894AFA497B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4ED27A-1B01-4636-87B1-3E894AFA497B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4ED27A-1B01-4636-87B1-3E894AFA497B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F193456-00A7-4E90-A1EF-9DDFB9FCE135}
+	EndGlobalSection
+EndGlobal

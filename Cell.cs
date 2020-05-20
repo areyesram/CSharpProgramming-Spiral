@@ -1,6 +1,6 @@
-﻿namespace spiral
+﻿namespace areyesram
 {
-    class Cell
+    internal class Cell
     {
         internal int I { get; set; }
         internal int X { get; set; }

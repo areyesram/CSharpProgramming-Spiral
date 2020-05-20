@@ -1,8 +1,8 @@
-﻿namespace spiral
+﻿namespace areyesram
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             if (args.Length != 1) return;
             int n;
